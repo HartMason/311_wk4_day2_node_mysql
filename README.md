@@ -90,7 +90,7 @@ Write a SQL statement to DELETE FROM users WHERE first_name = req param first_na
 ### Create a full Query
 
 - In your `getAllUsers` return all fields of all users including the fields of `usersContact` & `usersAddress`
-- In your `createUser` be sure that a complete user is created inluding all fields in `usersContact` & `usersAddress`
+- In your `createUser` be sure that a complete user is created inluding all fields in `usersContact` & `usersAddress` //target usersContact and usersFields ... a few different queries  
 
 ## Summary
 
